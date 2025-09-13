@@ -1,0 +1,183 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris",
+    "category": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": ["10", "12", "13", "15"],
+    "answer": "12",
+    "category": "Math",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country has won the most World Cups?",
+    "options": ["Brazil", "Argentina", "German", "France"],
+    "answer": "Brazil",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the next number in the Fibonacci Sequences 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, _?",
+    "options": ["65", "42" "55", "61"],
+    "answer": "55",
+    "category": "Math",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which programming language is this quiz written in?",
+    "options": ["Java", "Python", "C++", "JavaScript"],
+    "answer": "Python",
+    "category": "Programming",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which part of the body is fully grown from birth?",
+    "options": ["Heart", "Kidney", "Eyes", "Brain"],
+    "answer": "Eyes",
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the color of the sky on a clear day?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "answer": "Blue",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What follows millions, billions, and trillions?",
+    "options": ["Quadrillion", "Quintillion", "Sextillion", "Septillion"],
+    "answer": "Quadrillion",
+    "category": "Math",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which planet is the hottest in the solar system?",
+    "options": ["Earth", "Venus", "Mercury", "Mars"],
+    "answer": "Venus",
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How many dots appear on a pair of dice?",
+    "options": ["12", "56", "18", "42"],
+    "answer": "42",
+    "category": "Math",
+    "difficulty": "Medim"
+  },
+  {
+    "question": "What company was initially known as Blue Ribbon Sports?",
+    "options": ["Adidas", "Skechers", "Nike", "Timberland"],
+    "answer": "Nike",
+    "category": "General knowledge",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What was the first programming language ever created?",
+    "options": ["Python", "Assembly", "FORTRAN", "Plankalkul"],
+    "answer": "Plankalkul",
+    "category": "Programming",
+    "difficulty": "Hard"
+  }
+  {
+    "question": "What height is a regulation NBA basket?",
+    "options": ["6 feet", "2 metres", "10 feet", "3.2 metres" ],
+    "answer": "",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many bones do we have in an ear?",
+    "options": ["5", "3", "1", "None"],
+    "answer": "3",
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "",
+    "options": ["Yellow", "Orange", "Blue", "Green"],
+    "answer": "Yellow",
+    "category": "General knowledge",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What city is known as The Eternal City?",
+    "options": ["Cairo", "Rome", "Los Angelos", "Johannesburg"],
+    "answer": "Rome",
+    "category": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "One and three quarter revolutions equal how many degrees?",
+    "options": ["700", "500", "360", "630"],
+    "answer": "630",
+    "category": "Math",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which programming language is known for its use in Artificial Intelligence and machine learning?",
+    "options": ["PHP", "Java", "JavaScript", "Python"],
+    "answer": "Python",
+    "category": "Programming",
+    "difficulty": "Easy"
+  }
+  {
+    "question": "On which continent would you find the world's largest desert?",
+    "options": ["Africa", "Antarctica", "Europe", "Asia"],
+    "answer": "Antarctica",
+    "category": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is acrophobia a fear of?",
+    "options": ["Blood", "Water", "Snakes", "Heights"],
+    "answer": "Heights",
+    "category": "General knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "options": ["Molecules", "Atom", "Neutrons", "Protons"],
+    "answer": "Atom",
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the sum of a triangle's interior angles?",
+    "options": ["180", "360", "120", "90"],
+    "answer": "180",
+    "category": "Math",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the national sport of Japan?",
+    "options": ["Football", "Sumo wrestling", "Horse riding", "Athletics"],
+    "answer": "Sumo wrestling",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the oldest programming language still in use today?",
+    "options": ["FORTRAN" "Python", "Java", "COBOL"],
+    "answer": "FORTRAN",
+    "category": "Programming",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which prime number is the only even one?",
+    "options": ["3", "5", "2", "7"],
+    "answer": "2",
+    "category": "Math",
+    "difficulty": "Easy"
+  },
+]
+
+
+
+
+
+
