@@ -22,7 +22,7 @@
   },
   {
     "question": "What is the next number in the Fibonacci Sequences 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, _?",
-    "options": ["65", "42" "55", "61"],
+    "options": ["65", "42", "55", "61"],
     "answer": "55",
     "category": "Math",
     "difficulty": "Medium"
@@ -82,7 +82,7 @@
     "answer": "Plankalkul",
     "category": "Programming",
     "difficulty": "Hard"
-  }
+  },
   {
     "question": "What height is a regulation NBA basket?",
     "options": ["6 feet", "2 metres", "10 feet", "3.2 metres" ],
@@ -124,7 +124,7 @@
     "answer": "Python",
     "category": "Programming",
     "difficulty": "Easy"
-  }
+  },
   {
     "question": "On which continent would you find the world's largest desert?",
     "options": ["Africa", "Antarctica", "Europe", "Asia"],
@@ -162,7 +162,7 @@
   },
   {
     "question": "What is the oldest programming language still in use today?",
-    "options": ["FORTRAN" "Python", "Java", "COBOL"],
+    "options": ["FORTRAN", "Python", "Java", "COBOL"],
     "answer": "FORTRAN",
     "category": "Programming",
     "difficulty": "Hard"
@@ -173,7 +173,7 @@
     "answer": "2",
     "category": "Math",
     "difficulty": "Easy"
-  },
+  }
 ]
 
 
